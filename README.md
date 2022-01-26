@@ -1,5 +1,28 @@
->## Curso Introdução ao javascript
+<h1 align="center">
+   Curso Introdução ao javascript
+</h1>
 
-## Font
-Curso feito na Digital Innovation One
-:computer: Link do site: [Click Aqui](https://digitalinnovation.one/)
+<p align="center">
+  <a href="#open_book-sobre">Sobre</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer-tecnologias">Tecnologias</a>
+</p>
+
+## :open_book: Sobre
+Este repositório contém o código fonte praticado nas aulas do curso de javascript
+
+
+## :hammer: Tecnologias
+Este projeto foi feito com as seguintes tecnologias:
+- JavaScript
+
+
+## :rocket: Resultado
+
+<div align="center">
+  <img src="SourceReadme/result-1.png">
+</div>
+
+</br>
+
+:computer: Curso de JavaScript da: [Digital Innovation One](https://www.dio.me/)
