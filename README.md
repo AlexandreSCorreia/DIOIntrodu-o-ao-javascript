@@ -16,13 +16,4 @@ Este repositório contém o código fonte praticado nas aulas do curso de javasc
 Este projeto foi feito com as seguintes tecnologias:
 - JavaScript
 
-
-## :rocket: Resultado
-
-<div align="center">
-  <img src="SourceReadme/result-1.png">
-</div>
-
-</br>
-
 :computer: Curso de JavaScript da: [Digital Innovation One](https://www.dio.me/)
